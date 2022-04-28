@@ -1,0 +1,40 @@
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #003C53;
+  }
+  
+  /* Material Mods
+  ========================*/
+  .card-wide.mdl-card {
+    width: 512px;
+  }
+  
+  @media (max-width: 524px) {
+    .card-wide.mdl-card {
+    width: 90vw;
+  }
+  }
+  
+  .card-wide > .mdl-card__title {
+    color: #fff;
+    height: 176px;
+    background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/194840/JK_Lake_quads.png) center / cover;
+  }
+  
+  .mdl-card__title-text {
+    font-family: 'Roboto';
+    font-size: 3rem;
+    text-shadow: 1px 2px 3px #444;
+  }
+  
+  .card-wide > .mdl-card__menu {
+    color: #fff;
+  }
+  

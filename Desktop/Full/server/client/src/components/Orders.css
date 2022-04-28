@@ -1,0 +1,23 @@
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: cornsilk;
+    border-radius: 5px;
+  }
+  
+  th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    color: rgb(5, 7, 119);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px;
+  }
+
+  td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 10px;
+  }

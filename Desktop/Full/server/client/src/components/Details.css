@@ -1,0 +1,116 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+  }
+   
+  .container1 {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px;
+    display: flex;
+  }
+
+  .left-column {
+    width: 50%;
+    height: 550px;
+    position: relative;
+  }
+   
+  .right-column {
+    width: 50%;
+  }
+  .left-column img {
+    width: 80%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 1;
+    transition: all 0.3s ease;
+    height: 550px;
+  }
+
+  .product-description {
+    border-bottom: 1px solid #E1E8EE;
+    margin-bottom: 20px;
+  }
+  .product-description span {
+    font-size: 18px;
+    color: #3da4f8;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .product-description h3 {
+    font-weight: 300;
+    font-size: 35px;
+    color: #eb8321;
+    letter-spacing: -2px;
+    text-transform: uppercase;
+  }
+  .product-description h4 {
+    font-size: 16px;
+    color: #eb21e1;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .product-description p {
+    font-size: 16px;
+    font-weight: 300;
+    color: #dae6f0;
+    line-height: 24px;
+  }
+
+  .product-price {
+    display: flex;
+    align-items: center;
+    padding-bottom: 10px;
+  }
+   
+  .product-price span {
+    font-size: 26px;
+    font-weight: 300;
+    color: #d7dfeb;
+    margin-right: 100px;
+  }
+   
+  .cart-btn {
+    display: inline-block;
+    background-color: #7DC855;
+    border-radius: 6px;
+    font-size: 25px;
+    color: #FFFFFF;
+    text-decoration: none;
+    transition: all .5s;
+  }
+  .cart-btn:hover {
+    background-color: #64af3d;
+  }
+
+  @media (max-width: 940px) {
+    .container1 {
+      flex-direction: column;
+      margin-top: 60px;
+    }
+   
+    .left-column,
+    .right-column {
+      width: 100%;
+    }
+   
+    .left-column img {
+      width: 300px;
+      right: 0;
+      top: -65px;
+      left: initial;
+    }
+  }
+   
+  @media (max-width: 535px) {
+    .left-column img {
+      width: 220px;
+      top: -85px;
+    }
+  }

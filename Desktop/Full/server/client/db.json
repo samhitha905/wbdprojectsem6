@@ -1,0 +1,1202 @@
+{
+  "newspapers": [
+    {
+      "id": 0,
+      "name": "Eenadu",
+      "image": "assets/images/Eenadu.jpg",
+      "language": "Telugu",
+      "price": "195",
+      "featured": true,
+      "description": "Eenadu is the largest circulated Telugu-language daily newspaper of India sold mostly in the states of Andhra Pradesh and Telangana. According to the Indian Readership Survey (IRS) Q2 2019, Eenadu ranks eighth among the most circulated Indian-language dailies with a total readership (TR) of 1,614,105. It was founded by Ramoji Rao in 1974."
+    },
+    {
+      "id": 1,
+      "name": "Andhra Jyothi",
+      "image": "assets/images/andhra_jyothi.jpg",
+      "language": "Telugu",
+      "price": "190",
+      "featured": true,
+      "description": "Andhra Jyothi is the third largest circulated Telugu language daily newspaper of India sold mostly in the states of Andhra Pradesh and Telangana.It was founded by K. L. N. Prasad, an Industrialist on 1 July 1960. It is also one of the oldest running Telugu language daily newspapers.It was taken over by Vemuri Radha Krishna, also known as R. K. in 2002 who also works as the Managing Director."
+    },
+    {
+      "id": 2,
+      "name": "Andhra Bhoomi",
+      "image": "assets/images/andhra_bhoomi.jpg",
+      "language": "Telugu",
+      "price": "185",
+      "featured": false,
+      "description": "Andhra Bhoomi (transl. The land of Andhra) is a Telugu-language daily newspaper India covering the whole of Andhra Pradesh and Telangana with editions from Hyderabad, Vijayawada, Visakhapatnam, Rajahmundry, Anantapur, Karimnagar, Nellore, etc. The newspaper is one of the oldest running Telugu language daily newspapers. The newspaper is owned by Deccan Chronicle Holdings Limited (DCHL)."
+    },
+    {
+      "id": 3,
+      "name": "Andhra Prabha",
+      "image": "assets/images/andhra_prabha.jpg",
+      "language": "Telugu",
+      "price": "187",
+      "featured": false,
+      "description": "Andhra Prabha - Journalism first is a Telugu language daily newspaper of India sold mostly in the states of Andhra Pradesh and Telangana. The newspaper is one of the oldest running Telugu language daily newspapers of India. The newspaper and website (www.prabhanews.com) were owned by the New Indian Express Group of Companies but the newspaper was sold to entrepreneurs from Kakinada, Andhra Pradesh."
+    },
+    {
+      "id": 4,
+      "name": "Business Standard",
+      "image": "assets/images/business_standard.jpg",
+      "language": "English",
+      "price": "210",
+      "featured": false,
+      "description": "Business Standard is an Indian English-language daily edition newspaper published by Business Standard Private Limited, also available in Hindi. Founded in 1975, the newspaper does extensive coverage on the Indian economy, infrastructure, international business and trade, stock and currency markets, corporate governance, apart from a range of other financial news, opinions and insights."
+    },
+    {
+      "id": 5,
+      "name": "Deccan Chronicle",
+      "image": "assets/images/deccan_chronicle.jpg",
+      "language": "English",
+      "price": "225",
+      "featured": false,
+      "description": "Deccan Chronicle is an Indian English-language daily newspaper founded by Rajagopal Mudaliar in the 1930s & currently owned by Samagrah Commercial Pvt Limited. It is famous for providing false information and posting anti-India content to provoke people and cause communal disharmony. It is published in Hyderabad, Telangana, by Deccan Chronicle Holdings Limited (DCHL). The newspaper's name derives from the originating place, the Deccan regions of India. Deccan Chronicle has eight editions in Andhra Pradesh and Telangana. They also publish from Chennai and Bengaluru."
+    },
+    {
+      "id": 6,
+      "name": "Deccan Herald",
+      "image": "assets/images/deccan_herald.jpg",
+      "language": "English",
+      "price": "200",
+      "featured": false,
+      "description": "Deccan Herald (DH) is an Indian English language daily newspaper published from the Indian state of Karnataka by The Printers Mysore Private Limited, a privately held company owned by the Nettakallappa family. It has seven editions printed from Bengaluru, Hubballi, Davanagere, Hosapete, Mysuru, Mangaluru, and Kalaburagi."
+    },
+    {
+      "id": 7,
+      "name": "The Economic Times",
+      "image": "assets/images/economic_times.jpg",
+      "language": "English",
+      "price": "199",
+      "featured": false,
+      "description": "The Economic Times is an Indian English-language business-focused daily newspaper. It is owned by The Times Group. The Economic Times began publication in 1961. As of 2012, it is the world's second-most widely read English-language business newspaper, after The Wall Street Journal, with a readership of over 800,000. It is published simultaneously from 14 cities: Mumbai, Bangalore, Delhi, Chennai, Kolkata, Lucknow, Hyderabad, Jaipur, Ahmedabad, Nagpur, Chandigarh, Pune, Indore, and Bhopal."
+    },
+    {
+      "id": 8,
+      "name": "Hindustan Times",
+      "image": "assets/images/hindustan_times.jpg",
+      "language": "English",
+      "price": "217",
+      "featured": false,
+      "description": "Hindustan Times is an Indian English-language daily newspaper introduced and founded in 1924 by Sunder Singh Lyallpuri, founder-father of the Akali movement and the Shiromani Akali Dal in the Punjab Province. It played integral roles in the Indian independence movement as a nationalist daily. The newspaper is owned by Shobhana Bhartia. It is the flagship publication of HT Media, an entity controlled by the KK Birla family."
+    },
+    {
+      "id": 9,
+      "name": "The Indian Express",
+      "image": "assets/images/indian_express.jpg",
+      "language": "English",
+      "price": "224",
+      "featured": false,
+      "description": "The Indian Express is an English-language Indian daily newspaper. It is published in Mumbai by the Indian Express Group. In 1999, eight years after the group's founder Ramnath Goenka's death in 1991, the group was split between the family members. The southern editions took the name The New Indian Express, while the northern editions, based in Mumbai, retained the original Indian Express name with 'The' prefixed to the title."
+    },
+    {
+      "id": 10,
+      "name": "Namasthe Telangana",
+      "image": "assets/images/namasthe_telangana.jpg",
+      "language": "Telugu",
+      "price": "179",
+      "featured": false,
+      "description": "Namasthe Telangana Indian Telugu-language daily newspaper published from Hyderabad, Telangana. It was launched on 6 June 2011. The paper aims to mainly focus on politics and developments of Telangana State. The newspaper is published by Telangana Publications Pvt. Limited, owned by K. Chandrashekar Rao, the current chief minister of Telangana. With more than 300,000 copies sold per day, it is the third-largest Telugu-language daily after Eenadu and Sakshi."
+    },
+    {
+      "id": 11,
+      "name": "Nava Telangana",
+      "image": "assets/images/nava_telangana.jpg",
+      "language": "Telugu",
+      "price": "172",
+      "featured": false,
+      "description": "Nava Telangana is a Telugu language newspaper in the Indian State of Telangana. It is published in Karimnagar, Khammam, Hyderabad, Ranga Reddy, Warangal and Mahabubnagar. The paper is also available online. It is the only Telugu newspaper not owned by a business. Prior to the formation of Nava Telangana, the organization published the news daily Prajasakti in Telugu in Andhra Pradesh. Nava Telangana Telugu is published daily."
+    },
+    {
+      "id": 12,
+      "name": "Prajasakti",
+      "image": "assets/images/praja_sakthi.jpg",
+      "language": "Telugu",
+      "price": "182",
+      "featured": false,
+      "description": "Prajasakti, also spelled as Prajashakti, is a Telugu newspaper that is published in Andhra Pradesh, India by the Communist Party of India (Marxist) [CPI (M)]. It started as a daily newspaper in 1981 with Vijayawada as the centre. Currently it is being published with nine centres (or editions) at Hyderabad, Vijayawada, Visakhapatnam, Tirupati, Khammam, Kurnool, Ananthapur, Rajahmundry, Srikakulam, Karimnagar and Ongole. It has a wide network of over 100 primary news-gathering centers across the state."
+    },
+    {
+      "id": 13,
+      "name": "Sakshi",
+      "image": "assets/images/sakshi.jpg",
+      "language": "Telugu",
+      "price": "189",
+      "featured": false,
+      "description": "Sakshi is the second largest circulated Telugu language daily newspaper of India sold mostly in the states of Andhra Pradesh and Telangana. According to the Indian Readership Survey (IRS) Q2 2019, Sakshi ranks sixteenth among the most circulated Indian-language dailies with a total readership (TR) of 1,064,661. The newspaper is owned by Y. S. Bharathi, wife of the Chief minister of Andhra Pradesh, Y. S. Jaganmohan Reddy."
+    },
+    {
+      "id": 14,
+      "name": "Suryaa",
+      "image": "assets/images/suryaa.jpg",
+      "language": "Telugu",
+      "price": "178",
+      "featured": false,
+      "description": "Suryaa is a Telugu-language newspaper headquartered in Hyderabad. This newspaper is promoted by Nukarapu Surya Prakash Rao. It is published from seventeen cities in India."
+    },
+    {
+      "id": 15,
+      "name": "The Hindu",
+      "image": "assets/images/the_hindu.jpg",
+      "language": "English",
+      "price": "229",
+      "featured": true,
+      "description": "The Hindu is an English-language daily newspaper owned by The Hindu Group, headquartered in Chennai, Tamil Nadu, India. It began as a weekly in 1878 and became a daily in 1889. It is one of the Indian newspapers of record and the second most circulated English-language newspaper in India, after The Times of India. As of March 2018, The Hindu is published from 21 locations across 11 states of India."
+    },
+    {
+      "id": 16,
+      "name": "The Pioneer",
+      "image": "assets/images/the_pioneer.jpg",
+      "language": "English",
+      "price": "192",
+      "featured": true,
+      "description": "The Pioneer is an English language daily newspaper in India. It is published from multiple locations in India, including Delhi. It is the second oldest English language newspaper in India still in circulation after The Times of India. In 2010, The Pioneer launched its Hindi version in Lucknow."
+    },
+    {
+      "id": 17,
+      "name": "The Tribune",
+      "image": "assets/images/the_tribune.jpg",
+      "language": "English",
+      "price": "186",
+      "featured": false,
+      "description": "The Tribune is an Indian English-language daily newspaper published from Amritsar, Jalandhar, Ludhiana, Bathinda, Chandigarh and New Delhi. It was founded on 2 February 1881, in Lahore, Punjab (now in Pakistan), by Sardar Dyal Singh Majithia, a philanthropist, and is run by a trust comprising five persons as trustees. It is a major Indian newspaper with a worldwide circulation. In India, it is among the leading English daily for Punjab, Haryana, Himachal Pradesh, and the Union Territory of Chandigarh."
+    },
+    {
+      "id": 18,
+      "name": "The Times of India",
+      "image": "assets/images/times_of_India.jpg",
+      "language": "English",
+      "price": "209",
+      "featured": false,
+      "description": "The Times of India (also known by its abbreviation 'TOI') is an Indian English-language daily newspaper and digital news media owned and managed by The Times Group. It is the third-largest newspaper in India by circulation and largest selling English-language daily in the world. It is the oldest English-language newspaper in India, and the second-oldest Indian newspaper still in circulation, with its first edition published in 1838. It is nicknamed as 'The Old Lady of Bori Bunder', and is an Indian 'newspaper of record'."
+    },
+    {
+      "id": 19,
+      "name": "Vaartha",
+      "image": "assets/images/vaartha.jpg",
+      "language": "Telugu",
+      "price": "178",
+      "featured": false,
+      "description": "Vaartha was launched in 1996 with A.B.K Prasad as its first editor. It claimed to be the first Telugu daily in Telangana and Andhra Pradesh to use Information Technology, allowing it to publish news that broke at as late as 4 a.m. Vaartha was initially popular, competing with Eenadu and Udayam. It now has a smaller circulation than Eenadu, Sakshi or Andhra Jyothy. Vaartha is produced by A.G.A Publications, which is owned by Gireesh Kumar Sanghi's Hyderabad-based Sanghi Group."
+    }
+  ],
+  "magazines": [
+    {
+      "id": 20,
+      "name": "Business world",
+      "image": "assets/images/im1.jpg",
+      "language": "English",
+      "price": "367",
+      "featured": true,
+      "description": "BW Businessworld is an Indian business magazine. The magazine was published by ABP Group, whose most prominent publications are The Telegraph, Anandabazar Patrika, Sananda, Anandamela and others. ",
+      "category": "business"
+    },
+    {
+      "id": 21,
+      "name": "Capital market",
+      "image": "assets/images/im2.jpg",
+      "language": "English",
+      "price": "216",
+      "featured": false,
+      "description": "A capital market is a financial market in which long-term debt (over a year) or equity-backed securities are bought and sold,[1] in contrast to a money market where short-term debt is bought and sold. Capital markets channel the wealth of savers to those who can put it to long-term productive use, such as companies or governments making long-term investments.",
+      "category": "business"
+    },
+    {
+      "id": 22,
+      "name": "Forbes",
+      "image": "assets/images/im3.jpg",
+      "language": "English",
+      "price": "167",
+      "featured": false,
+      "description": "forbes india is indian edition of forbes. it features articles on finance, industry, investing, and marketing topics. Forbes also reports on related subjects such as technology, communications, science, politics, and law.",
+      "category": "business"
+    },
+    {
+      "id": 23,
+      "name": "Fortune",
+      "image": "assets/images/im4.jpg",
+      "language": "English",
+      "price": "325",
+      "featured": false,
+      "description": "fortune is an American multinational business magazine headquartered in New York City. It is published by Fortune Media Group Holdings, owned by Thai businessman Chatchaval Jiaravanon. ",
+      "category": "business"
+    },
+    {
+      "id": 24,
+      "name": "Outlook",
+      "image": "assets/images/im5.jpg",
+      "language": "English",
+      "price": "154",
+      "featured": false,
+      "description": "Outlook was first issued in October 1995 with Vinod Mehta as the editor in chief. It is owned by the Rajan Raheja Group. The publisher is Outlook Publishing (India) Pvt. Ltd. It features contents from politics, sports, cinema, and stories of broad interests. ",
+      "category": "business"
+    },
+    {
+      "id": 25,
+      "name": "Cricket today",
+      "image": "assets/images/im6.jpg",
+      "language": "English",
+      "price": "40",
+      "featured": true,
+      "description": "One of the best sports magazines in India, Cricket today as the name suggests is a cricket-centric magazine published monthly. This English language magazine is an ode to the cricket game since it keeps cricket lovers updated about every single cricket match played whether in India or across the world. Besides, it also covers the latest updates in the cricket industry and about players.",
+      "category": "sports"
+    },
+    {
+      "id": 26,
+      "name": "Sportstar",
+      "image": "assets/images/im7.jpg",
+      "language": "English",
+      "price": "490",
+      "featured": false,
+      "description": "sports star was started in 1978; it covers all types of international sports like Olympics, FIFA, UEFA Euro, Cricket, and World Cup. Apart from international sports, the publication also covers different Indian sports like Cricket, football, Formula One Grand Pix, Tennis, etc.",
+      "category": "sports"
+    },
+    {
+      "id": 27,
+      "name": "A guide for tennis lovers",
+      "image": "assets/images/im8.jpg",
+      "language": "English",
+      "price": "250",
+      "featured": false,
+      "description": "A USA-based sports magazine, Tennis is devoted to the sport of tennis. The first issue of this sports magazine was published in August 1954 and soon it became worldwide popular with its latest news and information about Tennis games. Presently, this magazine publishes 8 issues per year.",
+      "category": "sports"
+    },
+    {
+      "id": 28,
+      "name": "The Golf Digest India",
+      "image": "assets/images/im9.jpg",
+      "language": "English",
+      "price": "160",
+      "featured": false,
+      "description": "The Golf Digest India is a golf-centric magazine; it was launched in the year 1950 in the United State. This monthly magazine has now become one of the most read sports magazines in India. What makes this publication unique; it covers everything about golf from national golf tournaments to international golf tournaments, the latest news on gold, and more.",
+      "category": "sports"
+    },
+    {
+      "id": 29,
+      "name": "Sports business",
+      "image": "assets/images/im10.jpg",
+      "language": "English",
+      "price": "250",
+      "featured": false,
+      "description": "This is a unique sports business magazine, being a business-to-business publication; SportsBusiness covers all the dimensions of how sports business is viewed in our country.",
+      "category": "sports"
+    },
+    {
+      "id": 30,
+      "name": "Wired magazine",
+      "image": "assets/images/im11.jpg",
+      "language": "English",
+      "price": "900",
+      "featured": true,
+      "description": "WIRED is where tomorrow is realized. You'll get the latest in tech news, science, business, gear, security, and geek culture.",
+      "category": "tech"
+    },
+    {
+      "id": 31,
+      "name": "Computerworld",
+      "image": "assets/images/im12.jpg",
+      "language": "English",
+      "price": "880",
+      "featured": false,
+      "description": "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain, as well as relevant information about companies such as Microsoft, Apple and Google",
+      "category": "tech"
+    },
+    {
+      "id": 32,
+      "name": "MIT technology review",
+      "image": "assets/images/im13.jpg",
+      "language": "English",
+      "price": "760",
+      "featured": false,
+      "description": "The mission of MIT Technology Review is to bring about better-informed and more conscious decisions about technology through authoritative, influential, and trustworthy journalism.",
+      "category": "tech"
+    },
+    {
+      "id": 33,
+      "name": "Digit",
+      "image": "assets/images/im14.jpg",
+      "language": "English",
+      "price": "490",
+      "featured": false,
+      "description": "India's most popular destination for personal technology news, views & reviews. Get sound technology advice on buying products. Read in-depth reviews, features and watch videos on latest mobile phones, laptops, tablets",
+      "category": "tech"
+    },
+    {
+      "id": 34,
+      "name": "Tech breifs",
+      "image": "assets/images/im15.jpg",
+      "language": "English",
+      "price": "910",
+      "featured": false,
+      "description": "Tech Briefs features cutting-edge technologies developed by innovators within NASA, the military, federal laboratories, universities, and commercial companies. Tech Briefs reports new technologies from NASA and other leading R&D sources worldwide.",
+      "category": "tech"
+    },
+    {
+      "id": 35,
+      "name": "Filmfare",
+      "image": "assets/images/im16.jpg",
+      "language": "English",
+      "price": "130",
+      "featured": true,
+      "description": "The English magazine is dedicated to Hindi Cinema, popularly known as Bollywood. The magazine was launched in the year 1952 and is published by Worldwide India. It is one of the famous entertainment magazines in India. Filmfare magazine covers movies, music, and celebrities. The Filmfare group also organizes renowned film awards called The Annual Filmfare Awards every year.",
+      "category": "entertainment"
+    },
+    {
+      "id": 36,
+      "name": "Star dust",
+      "image": "assets/images/im17.jpg",
+      "language": "English",
+      "price": "75",
+      "featured": false,
+      "description": "This is the monthly magazine which is published in both English and Hindi language. Stardust Magazine is published by Magna Publishing Co. Ltd. The same magazine sponsors annual awards known as Stardust Awards for Bollywood movies.",
+      "category": "entertainment"
+    },
+    {
+      "id": 37,
+      "name": "Vogue",
+      "image": "assets/images/im18.jpg",
+      "language": "English",
+      "price": "150",
+      "featured": false,
+      "description": "Vogue Magazine is one of the leading and top 10 entertainment magazine in the country. The magazine is all about Entertainment, fashion, beauty, lifestyle, celebrities, hot tops related to celebrities’ culture and living, gossips, shows, and whatnot. Vogue India was the first kind of magazine that is completely foreign-owned.",
+      "category": "entertainment"
+    },
+    {
+      "id": 38,
+      "name": "Champak",
+      "image": "assets/images/im19.jpg",
+      "language": "English",
+      "price": "220",
+      "featured": false,
+      "description": "Champak is a popular fortnightly magazine for children published by the Delhi Press Group since 1969 in India.[1] Champak competes with Amar Chitra Katha's Tinkle and Geodesic's Chandamama brands of magazines",
+      "category": "entertainment"
+    },
+    {
+      "id": 39,
+      "name": "Entertainment Weekly",
+      "image": "assets/images/im20.jpg",
+      "language": "English",
+      "price": "300",
+      "featured": false,
+      "description": "Entertainment Weekly Magazine is amongst the most-read entertainment magazines in the market. It keeps readers updated about all the hottest and trending topics. In addition to the latest news and gossips, it covers Bollywood news, the latest movies, music, etc.",
+      "category": "entertainment"
+    },
+    {
+      "id": 40,
+      "name": "BalaBharatham",
+      "image": "assets/images/im21.jpg",
+      "language": "Telugu",
+      "price": "500",
+      "featured": false,
+      "description": "BalaBharatham is one of the most popular Entertainment Magazine in Telugu. It's a monthly magazine which contains various kinds of information ranging from moral stories to successful people's stories. We can learn lots of new things from this magazine. So Besides an entertainment Magazine, BalaBharatham is also a knowledge provider. Everyone likes this magazine, from kids to adults. What else are you looking for?! Hit Subscribe and get the magazine!!",
+      "category": "entertainment"
+    },
+    {
+      "id": 41,
+      "name": "Paramanandhayya Shisyulu",
+      "image": "assets/images/im22.jpg",
+      "language": "Telugu",
+      "price": "450",
+      "featured": false,
+      "description": "Paramanandhayya Shisyulu is the most entertaining magazine in Telugu. It's a monthly magazine. It contains various funny stories and funny conversations between Paramanandhayya and his shisyas. They create fun with their crazy doubts and Paramanandhayya getting irritated with his shisyas behaviour is more funnier. Everyone will laugh by reading these stories. What else are you looking for?! Hit Subscribe and get the magazine and laugh happily!!",
+      "category": "entertainment"
+    },
+    {
+      "id": 42,
+      "name": "Champak",
+      "image": "assets/images/im23.jpg",
+      "language": "Telugu",
+      "price": "200",
+      "featured": false,
+      "description": "Champak is a popular entertainment magazine in telugu especially for kids. It is a popular fortnightly magazine for children published by the Delhi Press Group since 1969 in India. It's a monthly magazine. Kids can enjoy reading the funny stories present in the magazine. Several beautiful stories can be found in this magazine. Hit Subscribe to get the magazine and make the kids laugh and learn happily!!",
+      "category": "entertainment"
+    },
+    {
+      "id": 43,
+      "name": "Swathi",
+      "image": "assets/images/im24.jpg",
+      "language": "Telugu",
+      "price": "327",
+      "featured": false,
+      "description": "Swathi magazine is one of the popular oldest magazine in Telugu. It is mostly liked by adults. It's a monthly magazine. Various kinds of things and several stories can be found in this magazine. Everyone likes to read this magazine because of it's naturality. Hit subscribe to get the magazine.",
+      "category": "entertainment"
+    },
+    {
+      "id": 44,
+      "name": "Chandhamama",
+      "image": "assets/images/im25.jfif",
+      "language": "Telugu",
+      "price": "563",
+      "featured": false,
+      "description": "Chandhamama is an evergreen entertaining magazine in Telugu. It's a monthly magazine. Kids grow up listening to these stories. Parents make their children to listen and read these stories because they like their children to hear such beautiful stories and learn from them. So why late?! Hit subscribe and get this beautiful magazine.",
+      "category": "entertainment"
+    },
+    {
+      "id": 45,
+      "name": "Current Affairs",
+      "image": "assets/images/im26.jpg",
+      "language": "Telugu",
+      "price": "443",
+      "featured": false,
+      "description": "It's important to know about the current happenings and latest information in various fields like science and Technology, Politics etc. One can gain knowledge of various domains by reading a magazine like this. It will help us to stay updated on various kinds of information like latest who is who. Hit subscribe to get this monthly magazine and improve your knowledge of current affairs!!",
+      "category": "tech"
+    },
+    {
+      "id": 46,
+      "name": "Manavidhya Current Affairs",
+      "image": "assets/images/im27.jpg",
+      "language": "Telugu",
+      "price": "235",
+      "featured": false,
+      "description": "Manavidhya Current Affairs is a monthly magazine with lots of information about current happenings across the world. This magazine helps the students preparing for various competetive exams. One can gain knowledge of various domains by reading a magazine like this. It will help us to stay updated on various kinds of information like latest who is who. Hit subscribe to get this monthly magazine and improve your knowledge of current affairs!!",
+      "category": "tech"
+    },
+    {
+      "id": 47,
+      "name": "New India Samaachaar",
+      "image": "assets/images/im28.png",
+      "language": "Telugu",
+      "price": "349",
+      "featured": false,
+      "description": "India has been moving forward by achieving various milestones in the field of sports. Everyone likes to know about their favourite sport and how our country's sports team is performing against other countries in major leagues. New India Samaachaar Magazine gives latest information about sports. It mainly focuses on the popular sports competetion across the world named Tokyo Olympics. It gives latest updates about Tokyo Olympics. Sports enthusiasts will definitely love this magazine. If you are one, Hit subscribe and get the magazine!!",
+      "category": "sports"
+    },
+    {
+      "id": 48,
+      "name": "Kreedaa Prathiba",
+      "image": "assets/images/im29.jfif",
+      "language": "Telugu",
+      "price": "550",
+      "featured": false,
+      "description": "Kreedaa Prathiba is a monthly sports Magazine. This magazine introduces young talents across the country in various sports. This magazine also provides latest information about various sports. It helps the common people to bring out their hidden sports talents and provides a kind of encouragement for them. Hit subscribe and get the magazine to know about young indian talents in various sports.",
+      "category": "sports"
+    },
+    {
+      "id": 49,
+      "name": "Krushi Jaagaran",
+      "image": "assets/images/im30.jpg",
+      "language": "Telugu",
+      "price": "213",
+      "featured": false,
+      "description": "This Magazine is about a person who succeeded in cultivating Dragon Fruit. This Monthly Magazine comes under business category since it tells how a common man succeeded in cultivating dragon fruit and how it helped other farmers in cultivating their crops. Hit subscribe and get the Magazine to know more about him and his inspiring success story.",
+      "category": "business"
+    }
+  ],
+  "feedback": [
+    {
+      "firstname": "Nandhini",
+      "lastname": "Pasupuleti",
+      "telnum": "9849479806",
+      "email": "pvnandhini2002@gmail.com",
+      "agree": true,
+      "contactType": "Email",
+      "message": "Testing the application",
+      "id": 1
+    },
+    {
+      "firstname": "Sara",
+      "lastname": "Pusala",
+      "telnum": "12345678",
+      "email": "sara234@gmail.com",
+      "agree": true,
+      "contactType": "Tel.",
+      "message": "Sending Feedback!",
+      "id": 2
+    },
+    {
+      "firstname": "Manu",
+      "lastname": "chilakala",
+      "telnum": "45678923",
+      "email": "latha@gmail.com",
+      "agree": true,
+      "contactType": "Email",
+      "message": "It's a Test.",
+      "id": 3
+    },
+    {
+      "firstname": "Pranathi",
+      "lastname": "Nagisetty",
+      "telnum": "8639879023",
+      "email": "pranathi234@gmail.com",
+      "agree": true,
+      "contactType": "Email",
+      "message": "This is my Feedback.",
+      "id": 4
+    },
+    {
+      "firstname": "Manu",
+      "lastname": "chilakala",
+      "telnum": "12345678",
+      "email": "latha@gmail.com",
+      "agree": true,
+      "contactType": "Tel.",
+      "message": "",
+      "id": 5
+    },
+    {
+      "firstname": "samhitha",
+      "lastname": "bhumireddy",
+      "telnum": "9390571905",
+      "email": "samhithareddy905@gmail.com",
+      "agree": true,
+      "contactType": "Email",
+      "message": "good",
+      "id": 5
+    },
+    {
+      "firstname": "Bhanu",
+      "lastname": "Aswitha",
+      "telnum": "1234567589",
+      "email": "ab@gmail.com",
+      "agree": false,
+      "contactType": "Tel.",
+      "message": "Good css",
+      "id": 6
+    },
+    {
+      "firstname": "Bhanu",
+      "lastname": "aswitha",
+      "telnum": "1345682859",
+      "email": "ab@gmail.com",
+      "agree": false,
+      "contactType": "Tel.",
+      "message": "Good css",
+      "id": 7
+    },
+    {
+      "firstname": "Bhanu",
+      "lastname": "aswitha",
+      "telnum": "1253526355",
+      "email": "ab@gmail.com",
+      "agree": false,
+      "contactType": "Tel.",
+      "message": "Good css",
+      "id": 8
+    }
+  ],
+  "regusers": [
+    {
+      "user4": "bhanu:123",
+      "id": 1
+    },
+    {
+      "user4": "Nandhini:2662",
+      "id": 3
+    },
+    {
+      "user4": "Bhagya:test123",
+      "id": 4
+    },
+    {
+      "user4": "samhitha:Samhi_905",
+      "id": 5
+    },
+    {
+      "user4": "bhanu:125",
+      "id": 6
+    },
+    {
+      "user4": "Hindu:123",
+      "id": 7
+    }
+  ],
+  "reviews": [
+    {
+      "itemId": 4,
+      "rating": 4,
+      "author": "Saritha",
+      "review": "Nice newspaper with lots of new information",
+      "date": "2021-12-26T06:56:08.270Z",
+      "id": 1
+    },
+    {
+      "itemId": 5,
+      "rating": 4,
+      "author": "Nandhini",
+      "review": "Standard of language in this newspaper is too good. ",
+      "date": "2021-12-26T06:59:21.255Z",
+      "id": 2
+    },
+    {
+      "itemId": 6,
+      "rating": 3,
+      "author": "Sara Pusala",
+      "review": "Good newspaper to buy",
+      "date": "2021-12-26T06:59:52.462Z",
+      "id": 3
+    },
+    {
+      "itemId": 7,
+      "rating": 4,
+      "author": "Nandhini",
+      "review": "Good newspaper that concentrates on economics",
+      "date": "2021-12-26T07:01:52.108Z",
+      "id": 4
+    },
+    {
+      "itemId": 8,
+      "rating": 4,
+      "author": "Sara Pusala",
+      "review": "Contains several kinds of information",
+      "date": "2021-12-26T07:02:42.612Z",
+      "id": 5
+    },
+    {
+      "itemId": 9,
+      "rating": 4,
+      "author": "Saritha",
+      "review": "It's an excellent newspaper.",
+      "date": "2021-12-26T07:03:25.345Z",
+      "id": 6
+    },
+    {
+      "itemId": 15,
+      "rating": 4,
+      "author": "Bhanu",
+      "review": "Good newspaper in english",
+      "date": "2021-12-26T07:04:18.848Z",
+      "id": 7
+    },
+    {
+      "itemId": 16,
+      "rating": 3,
+      "author": "Bhagya",
+      "review": "Nice newspaper containing lots of new information",
+      "date": "2021-12-26T07:04:59.201Z",
+      "id": 8
+    },
+    {
+      "itemId": 17,
+      "rating": 2,
+      "author": "Bhanu",
+      "review": "Not satisfied with the quality of the newspaper",
+      "date": "2021-12-26T07:06:03.499Z",
+      "id": 9
+    },
+    {
+      "itemId": 18,
+      "rating": 5,
+      "author": "Nandhini",
+      "review": "It's an amazing english newspaper. Must subscribe!!",
+      "date": "2021-12-26T07:07:39.346Z",
+      "id": 10
+    },
+    {
+      "itemId": 0,
+      "rating": 4,
+      "author": "Bhagya",
+      "review": "Wonderful telugu newspaper with important information.",
+      "date": "2021-12-26T07:08:55.499Z",
+      "id": 11
+    },
+    {
+      "itemId": 1,
+      "rating": 4,
+      "author": "Sara Pusala",
+      "review": "Good Newspaper to get.",
+      "date": "2021-12-26T07:09:34.197Z",
+      "id": 12
+    },
+    {
+      "itemId": 2,
+      "rating": 3,
+      "author": "Bhanu",
+      "review": "Nice newspaper in telugu",
+      "date": "2021-12-26T07:10:04.190Z",
+      "id": 13
+    },
+    {
+      "itemId": 3,
+      "rating": 3,
+      "author": "Saritha",
+      "review": "Good one for telugu readers.",
+      "date": "2021-12-26T07:10:35.526Z",
+      "id": 14
+    },
+    {
+      "itemId": 10,
+      "rating": 4,
+      "author": "Nandhini",
+      "review": "Good telugu newspaper about telangana.",
+      "date": "2021-12-26T07:11:33.470Z",
+      "id": 15
+    },
+    {
+      "itemId": 11,
+      "rating": 4,
+      "author": "Bhanu",
+      "review": "Contains lots of new information about telangana",
+      "date": "2021-12-26T07:12:13.652Z",
+      "id": 16
+    },
+    {
+      "itemId": 12,
+      "rating": 4,
+      "author": "Bhagya",
+      "review": "Good one to subscribe ",
+      "date": "2021-12-26T07:12:47.161Z",
+      "id": 17
+    },
+    {
+      "itemId": 13,
+      "rating": 4,
+      "author": "Nandhini",
+      "review": "An amazing newspaper in telugu. ",
+      "date": "2021-12-26T07:13:21.654Z",
+      "id": 18
+    },
+    {
+      "itemId": 0,
+      "rating": 4,
+      "author": "Bhanu",
+      "review": "Best newspaper in telugu.Must subscribe!!",
+      "date": "2021-12-26T08:59:49.135Z",
+      "id": 19
+    },
+    {
+      "itemId": 40,
+      "rating": 5,
+      "author": "Nandhini",
+      "review": "Superb magazine in telugu that entertains everyone. Must subscribe!!",
+      "date": "2021-12-27T07:31:18.973Z",
+      "id": 20
+    },
+    {
+      "itemId": 41,
+      "rating": 4,
+      "author": "Nandhini",
+      "review": "Loved this magazine for it's funny stories",
+      "date": "2021-12-27T07:32:03.561Z",
+      "id": 21
+    },
+    {
+      "itemId": 44,
+      "rating": 4,
+      "author": "Saritha",
+      "review": "kids love this magazine and the stories in this magazine.",
+      "date": "2021-12-27T07:32:42.771Z",
+      "id": 22
+    },
+    {
+      "itemId": 29,
+      "rating": 4,
+      "author": "Sara",
+      "review": "Loved this magazine!!",
+      "date": "2021-12-27T08:44:14.254Z",
+      "id": 23
+    },
+    {
+      "itemId": 47,
+      "rating": 4,
+      "author": "Bhanu",
+      "review": "Wonderful sports magazine with interesting info. must subscribe!!",
+      "date": "2021-12-27T08:58:56.837Z",
+      "id": 24
+    },
+    {
+      "itemId": 20,
+      "rating": 4,
+      "author": "Bhagya",
+      "review": "Excellent business magazine with useful business ideas.",
+      "date": "2021-12-27T14:48:56.839Z",
+      "id": 25
+    },
+    {
+      "itemId": 41,
+      "rating": 5,
+      "author": "Bhanu",
+      "review": "Amazing entertainment magazine. Must subsribe to enjoy reading the funny stories of this magazine",
+      "date": "2021-12-27T18:02:31.731Z",
+      "id": 26
+    },
+    {
+      "itemId": 22,
+      "rating": 4,
+      "author": "Bhanu",
+      "review": "It's an amazing business magazine. Really helpful. Must subscribe!!",
+      "date": "2021-12-28T07:23:02.242Z",
+      "id": 27
+    },
+    {
+      "itemId": 19,
+      "rating": 4,
+      "author": "Nandhini",
+      "review": "Nice telugu newspaper with useful information to learn.",
+      "date": "2021-12-28T07:24:34.966Z",
+      "id": 28
+    },
+    {
+      "itemId": 0,
+      "rating": 4,
+      "author": "nandhini",
+      "review": "Loved this newspaper for the useful information it contains.",
+      "date": "2021-12-28T14:04:08.715Z",
+      "id": 29
+    },
+    {
+      "itemId": 45,
+      "rating": 4,
+      "author": "nandhini",
+      "review": "Useful magazine that contains lots of info about current happenings.",
+      "date": "2022-01-04T18:19:00.524Z",
+      "id": 30
+    },
+    {
+      "itemId": 19,
+      "rating": 3,
+      "author": "nandhini",
+      "review": "good newspaper ",
+      "date": "2022-01-04T18:22:39.482Z",
+      "id": 31
+    },
+    {
+      "itemId": 0,
+      "rating": 4,
+      "author": "bhagya",
+      "review": "Very useful.",
+      "date": "2021-12-30T05:07:58.923Z",
+      "id": 32
+    },
+    {
+      "itemId": 0,
+      "rating": 3,
+      "author": "samhitha",
+      "review": "good",
+      "date": "2022-01-09T05:13:18.589Z",
+      "id": 33
+    },
+    {
+      "itemId": 1,
+      "rating": 5,
+      "author": "Aswitha",
+      "review": "Good content",
+      "date": "2022-01-09T14:01:08.604Z",
+      "id": 34
+    },
+    {
+      "itemId": 1,
+      "rating": 5,
+      "author": "Aswitha",
+      "review": "Good content",
+      "date": "2022-01-09T14:15:21.258Z",
+      "id": 35
+    },
+    {
+      "itemId": 1,
+      "rating": 5,
+      "author": "bhanu",
+      "review": "Good content",
+      "date": "2022-01-09T14:32:14.657Z",
+      "id": 36
+    }
+  ],
+  "orders": [
+    {
+      "fullName": "R. Bhagya Sree",
+      "address": "2/979-1, Jayanagar colony, Yellanur road",
+      "city": "Tadipatri",
+      "postalCode": "515411",
+      "country": "India",
+      "NameOnCard": "Bhagya sree",
+      "CreditCardNum": "1111-2222-3333-4444",
+      "ExpMon": "09",
+      "ExpYear": "2023",
+      "Cvv": "100",
+      "cart": [
+        {
+          "id": 5,
+          "name": "Deccan Chronicle",
+          "image": "assets/images/deccan_chronicle.jpg",
+          "language": "English",
+          "price": "225",
+          "featured": false,
+          "description": "Deccan Chronicle is an Indian English-language daily newspaper founded by Rajagopal Mudaliar in the 1930s & currently owned by Samagrah Commercial Pvt Limited. It is famous for providing false information and posting anti-India content to provoke people and cause communal disharmony. It is published in Hyderabad, Telangana, by Deccan Chronicle Holdings Limited (DCHL). The newspaper's name derives from the originating place, the Deccan regions of India. Deccan Chronicle has eight editions in Andhra Pradesh and Telangana. They also publish from Chennai and Bengaluru.",
+          "qty": 2
+        },
+        {
+          "id": 22,
+          "name": "forbes",
+          "image": "assets/images/im3.jpg",
+          "language": "English",
+          "price": "167",
+          "featured": false,
+          "description": "forbes india is indian edition of forbes. it features articles on finance, industry, investing, and marketing topics. Forbes also reports on related subjects such as technology, communications, science, politics, and law.",
+          "category": "business",
+          "qty": 2
+        }
+      ],
+      "user": "Bhagya",
+      "price": 784,
+      "items": 4,
+      "date": "2022-01-02T15:34:18.101Z",
+      "id": 1
+    },
+    {
+      "fullName": "samhita",
+      "address": "SBI colony 6th line",
+      "city": "Kadapa",
+      "postalCode": "516390",
+      "country": "India",
+      "NameOnCard": "sam",
+      "CreditCardNum": "9876545678765445",
+      "ExpMon": "09",
+      "ExpYear": "2023",
+      "Cvv": "567",
+      "cart": [
+        {
+          "id": 0,
+          "name": "Eenadu",
+          "image": "assets/images/Eenadu.jpg",
+          "language": "Telugu",
+          "price": "195",
+          "featured": true,
+          "description": "Eenadu is the largest circulated Telugu-language daily newspaper of India sold mostly in the states of Andhra Pradesh and Telangana. According to the Indian Readership Survey (IRS) Q2 2019, Eenadu ranks eighth among the most circulated Indian-language dailies with a total readership (TR) of 1,614,105. It was founded by Ramoji Rao in 1974.",
+          "qty": 1
+        }
+      ],
+      "user": "samhitha",
+      "price": 195,
+      "items": 1,
+      "date": "2022-01-06T05:19:20.260Z",
+      "id": 2
+    },
+    {
+      "fullName": "samhita",
+      "address": "SBI colony 6th line",
+      "city": "Kadapa",
+      "postalCode": "516390",
+      "country": "India",
+      "NameOnCard": "sam",
+      "CreditCardNum": "1234567890123456",
+      "ExpMon": "11",
+      "ExpYear": "2023",
+      "Cvv": "123",
+      "cart": [
+        {
+          "id": 0,
+          "name": "Eenadu",
+          "image": "assets/images/Eenadu.jpg",
+          "language": "Telugu",
+          "price": "195",
+          "featured": true,
+          "description": "Eenadu is the largest circulated Telugu-language daily newspaper of India sold mostly in the states of Andhra Pradesh and Telangana. According to the Indian Readership Survey (IRS) Q2 2019, Eenadu ranks eighth among the most circulated Indian-language dailies with a total readership (TR) of 1,614,105. It was founded by Ramoji Rao in 1974.",
+          "qty": 1
+        },
+        {
+          "id": 21,
+          "name": "Capital market",
+          "image": "assets/images/im2.jpg",
+          "language": "English",
+          "price": "216",
+          "featured": false,
+          "description": "A capital market is a financial market in which long-term debt (over a year) or equity-backed securities are bought and sold,[1] in contrast to a money market where short-term debt is bought and sold. Capital markets channel the wealth of savers to those who can put it to long-term productive use, such as companies or governments making long-term investments.",
+          "category": "business",
+          "qty": 1
+        }
+      ],
+      "user": "samhitha",
+      "price": 411,
+      "items": 2,
+      "date": "2022-01-06T13:32:50.516Z",
+      "id": 3
+    },
+    {
+      "fullName": "Nandhini Pasupuleti",
+      "address": "5th Street, ABC colony",
+      "city": "Prakasam",
+      "postalCode": "523333",
+      "country": "India",
+      "NameOnCard": "Nandhini Pasupuleti",
+      "CreditCardNum": "1234567893445678",
+      "ExpMon": "12",
+      "ExpYear": "2023",
+      "Cvv": "456",
+      "cart": [
+        {
+          "id": 0,
+          "name": "Eenadu",
+          "image": "assets/images/Eenadu.jpg",
+          "language": "Telugu",
+          "price": "195",
+          "featured": true,
+          "description": "Eenadu is the largest circulated Telugu-language daily newspaper of India sold mostly in the states of Andhra Pradesh and Telangana. According to the Indian Readership Survey (IRS) Q2 2019, Eenadu ranks eighth among the most circulated Indian-language dailies with a total readership (TR) of 1,614,105. It was founded by Ramoji Rao in 1974.",
+          "qty": 2
+        },
+        {
+          "id": 40,
+          "name": "BalaBharatham",
+          "image": "assets/images/im21.jpg",
+          "language": "Telugu",
+          "price": "500",
+          "featured": false,
+          "description": "BalaBharatham is one of the most popular Entertainment Magazine in Telugu. It's a monthly magazine which contains various kinds of information ranging from moral stories to successful people's stories. We can learn lots of new things from this magazine. So Besides an entertainment Magazine, BalaBharatham is also a knowledge provider. Everyone likes this magazine, from kids to adults. What else are you looking for?! Hit Subscribe and get the magazine!!",
+          "category": "entertainment",
+          "qty": 3
+        },
+        {
+          "id": 20,
+          "name": "Business world",
+          "image": "assets/images/im1.jpg",
+          "language": "English",
+          "price": "367",
+          "featured": true,
+          "description": "BW Businessworld is an Indian business magazine. The magazine was published by ABP Group, whose most prominent publications are The Telegraph, Anandabazar Patrika, Sananda, Anandamela and others. ",
+          "category": "business",
+          "qty": 1
+        }
+      ],
+      "user": "Nandhini",
+      "price": 2257,
+      "items": 6,
+      "date": "2022-01-07T07:42:57.221Z",
+      "id": 4
+    },
+    {
+      "fullName": "Aswitha",
+      "address": "302,gardens",
+      "city": "Kurnool",
+      "postalCode": "123456",
+      "country": "India",
+      "NameOnCard": "aswitha",
+      "CreditCardNum": "1234123412341234",
+      "ExpMon": "2",
+      "ExpYear": "2589",
+      "Cvv": "123",
+      "cart": [
+        {
+          "id": 1,
+          "name": "Andhra Jyothi",
+          "image": "assets/images/andhra_jyothi.jpg",
+          "language": "Telugu",
+          "price": "190",
+          "featured": true,
+          "description": "Andhra Jyothi is the third largest circulated Telugu language daily newspaper of India sold mostly in the states of Andhra Pradesh and Telangana.It was founded by K. L. N. Prasad, an Industrialist on 1 July 1960. It is also one of the oldest running Telugu language daily newspapers.It was taken over by Vemuri Radha Krishna, also known as R. K. in 2002 who also works as the Managing Director.",
+          "qty": 2
+        },
+        {
+          "id": 22,
+          "name": "Forbes",
+          "image": "assets/images/im3.jpg",
+          "language": "English",
+          "price": "167",
+          "featured": false,
+          "description": "forbes india is indian edition of forbes. it features articles on finance, industry, investing, and marketing topics. Forbes also reports on related subjects such as technology, communications, science, politics, and law.",
+          "category": "business",
+          "qty": 1
+        }
+      ],
+      "user": "Aswitha",
+      "price": 547,
+      "items": 3,
+      "date": "2022-01-09T14:00:32.557Z",
+      "id": 5
+    },
+    {
+      "fullName": "Bhanu",
+      "address": "Aswitha",
+      "city": "Kurnool",
+      "postalCode": "524859",
+      "country": "India",
+      "NameOnCard": "Bhanu",
+      "CreditCardNum": "1234134212341234",
+      "ExpMon": "2",
+      "ExpYear": "2121",
+      "Cvv": "235",
+      "cart": [
+        {
+          "id": 1,
+          "name": "Andhra Jyothi",
+          "image": "assets/images/andhra_jyothi.jpg",
+          "language": "Telugu",
+          "price": "190",
+          "featured": true,
+          "description": "Andhra Jyothi is the third largest circulated Telugu language daily newspaper of India sold mostly in the states of Andhra Pradesh and Telangana.It was founded by K. L. N. Prasad, an Industrialist on 1 July 1960. It is also one of the oldest running Telugu language daily newspapers.It was taken over by Vemuri Radha Krishna, also known as R. K. in 2002 who also works as the Managing Director.",
+          "qty": 2
+        },
+        {
+          "id": 22,
+          "name": "Forbes",
+          "image": "assets/images/im3.jpg",
+          "language": "English",
+          "price": "167",
+          "featured": false,
+          "description": "forbes india is indian edition of forbes. it features articles on finance, industry, investing, and marketing topics. Forbes also reports on related subjects such as technology, communications, science, politics, and law.",
+          "category": "business",
+          "qty": 1
+        }
+      ],
+      "user": "Aswitha",
+      "price": 547,
+      "items": 3,
+      "date": "2022-01-09T14:14:33.363Z",
+      "id": 6
+    },
+    {
+      "fullName": "Bhanu",
+      "address": "302, gardes",
+      "city": "Kurnool",
+      "postalCode": "541654",
+      "country": "India",
+      "NameOnCard": "Bhanu",
+      "CreditCardNum": "1234123412341234",
+      "ExpMon": "5",
+      "ExpYear": "2025",
+      "Cvv": "456",
+      "cart": [
+        {
+          "id": 1,
+          "name": "Andhra Jyothi",
+          "image": "assets/images/andhra_jyothi.jpg",
+          "language": "Telugu",
+          "price": "190",
+          "featured": true,
+          "description": "Andhra Jyothi is the third largest circulated Telugu language daily newspaper of India sold mostly in the states of Andhra Pradesh and Telangana.It was founded by K. L. N. Prasad, an Industrialist on 1 July 1960. It is also one of the oldest running Telugu language daily newspapers.It was taken over by Vemuri Radha Krishna, also known as R. K. in 2002 who also works as the Managing Director.",
+          "qty": 2
+        },
+        {
+          "id": 20,
+          "name": "Business world",
+          "image": "assets/images/im1.jpg",
+          "language": "English",
+          "price": "367",
+          "featured": true,
+          "description": "BW Businessworld is an Indian business magazine. The magazine was published by ABP Group, whose most prominent publications are The Telegraph, Anandabazar Patrika, Sananda, Anandamela and others. ",
+          "category": "business",
+          "qty": 1
+        }
+      ],
+      "user": "bhanu",
+      "price": 747,
+      "items": 3,
+      "date": "2022-01-09T14:31:42.153Z",
+      "id": 7
+    }
+  ],
+  "blogs": [
+    {
+      "user": "BHANU",
+      "topic": "React",
+      "message": "An example here is choosing a 3rd party vendor for your project or a framework that's new and exciting. Once you're locked in and you realize it's wrong, it's hard to change your mind.\n\nTake these decisions slowly. Make contingency plans. Design check-ins into your project. Have a deadline to make the decision.\n\nA deadline helps you decide when you're about 80% sure.\n\nPre-decide when you're going to bail. When situation X, Y, Z arises, we bail. You're going to be too fond of the work when that time comes to think straight.",
+      "id": 1
+    },
+    {
+      "user": "Bhanu",
+      "topic": "Why Blog for Business",
+      "message": "Businesses know that their website is their shop-window 24/7. They also know that to get a good Google ranking, they need to have frequently updated, unique and relevant content. The easiest way to do this is to have a blog. However, most business owners and managers are too busy actually running their business to write the blog posts they need. When they do find the time to write them, they often don't really know what to write, and their blog gets populated by unread and quite often unreadable posts. These posts don't provide the customer with any real content or value, and because they generate no visitor interest, they get ignored by Google.\n\nThis is where you come in.\n\nEven if you've never written a blog post before, you have one very big advantage over the business owner: you are a writer. If you can write nonfiction articles, you can blog for businesses.",
+      "id": 2
+    },
+    {
+      "user": "Aswitha",
+      "topic": "Why writing blogs",
+      "message": "To write a successful blog post, you need to approach it as you would an article. You also have to bear in mind that, just as with article writing, there is nothing new under the sun. You need to make your blog post unique by looking at the slant you will take on the topic. To do this you need to work out who the audience is, what they need to know and, crucially, what your client wants to communicate.\n\nYou then need to research your blog topic to ensure you can write a blog post that meets your client's needs. You need to write an engaging hook and ensure, just as in an article, that each paragraph builds upon the former and that you deliver all you promised to do in your header and hook. The only differences are that you will need to write in your client's voice, research often quite obscure topics, and think about SEO (Search Engine Optimization).",
+      "id": 3
+    },
+    {
+      "user": "bhanu",
+      "topic": "How to write blog",
+      "message": "To write a successful blog post, you need to approach it as you would an article. You also have to bear in mind that, just as with article writing, there is nothing new under the sun. You need to make your blog post unique by looking at the slant you will take on the topic. To do this you need to work out who the audience is, what they need to know and, crucially, what your client wants to communicate.\n\nYou then need to research your blog topic to ensure you can write a blog post that meets your client's needs. You need to write an engaging hook and ensure, just as in an article, that each paragraph builds upon the former and that you deliver all you promised to do in your header and hook. The only differences are that you will need to write in your client's voice, research often quite obscure topics, and think about SEO (Search Engine Optimization).",
+      "id": 4
+    }
+  ]
+}

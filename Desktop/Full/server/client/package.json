@@ -1,0 +1,65 @@
+{
+  "name": "fsd_project",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:3001/",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "axios": "^0.26.1",
+    "bootstrap": "^5.1.3",
+    "bootstrap-social": "^5.1.1",
+    "concurrently": "^7.0.0",
+    "font-awesome": "^4.7.0",
+    "json-server": "^0.17.0",
+    "mongo-connector": "^0.0.2",
+    "mongoose": "^6.2.3",
+    "nodemon": "^2.0.15",
+    "react": "^17.0.2",
+    "react-animation-components": "^3.0.0",
+    "react-dom": "^17.0.2",
+    "react-paginate": "^8.1.0",
+    "react-redux": "^7.2.6",
+    "react-redux-form": "^1.16.14",
+    "react-reveal": "^1.2.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3",
+    "react-stars": "^2.2.5",
+    "react-table": "^7.7.0",
+    "react-transition-group": "^4.4.2",
+    "reactstrap": "^9.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.4.1",
+    "solr-faceted-search-react": "^0.12.1",
+    "styled-components": "^5.3.3",
+    "web-vitals": "^1.0.1"
+  },
+  "scripts": {
+    "startDev": "nodemon server.js --ignore client",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "client": "npm start --prefix client",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "dev": "concurrently \"npm run startDev\" \"npm start\""
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
